@@ -1,0 +1,15 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Custom for specific file types
+*.lua text eol=lf
+*.sh text eol=lf
+
+# Handle line endings automatically for files detected as text
+# and leave all files detected as binary untouched.
+*.png binary
+*.jpg binary
+*.gif binary
+
+# Diff settings
+*.lua diff=lua
