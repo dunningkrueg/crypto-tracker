@@ -1,6 +1,6 @@
 # Crypto Price Tracker
 
-A powerful cryptocurrency price tracker with Telegram notifications and technical analysis.
+A cryptocurrency price tracker with Telegram notifications and technical analysis.
 
 ## Features
 - Real-time price monitoring from Binance
